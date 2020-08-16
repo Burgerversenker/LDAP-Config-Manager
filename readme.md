@@ -1,5 +1,5 @@
 # LDAP-Config-Manager
-This small python based project is used to integrate new Computers in LDAP based Network environment. It features a clear and minimalistic GUI.
+This small python based project is used to integrate new Computers in a LDAP managed Network environment. It features a clear and minimalistic GUI.
 
 
 Bugs:

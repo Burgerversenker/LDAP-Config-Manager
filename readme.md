@@ -18,4 +18,4 @@ To-Do:
 
 Tested:  
  -Fedora 32, VSC with python3 and tkinter installed  
- -Every bigger Linux distribution with python and tkinter (likely in your repo) installed should work  
+ -Every bigger Linux distribution with python and tkinter (likely in your repo) should work  

@@ -74,7 +74,5 @@ e1.grid(row=3, column= 1)
 root.mainloop()
 
 
-##https://medium.com/@alpolishchuk/a-little-python-ldap-tutorial-4a6a79676157
-##https://www.youtube.com/watch?v=YXPyB4XeYLA
 
 ## Missing: Zsmlegen von IP und VLANs, EXE Conversion

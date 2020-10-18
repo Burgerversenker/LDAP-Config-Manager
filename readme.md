@@ -13,8 +13,9 @@ Bugs:
  -Vlan name doesn't reload after changes in the IP dropbox menu.
 
 To-Do:  
+ -Fixing VLAN Bug (master branch, v01 branch is a legacy version, where VLAN and IP is seperated)
  -Standalone .exe binarie for Windows  
--Icon  
+ -Icon  
 
 Tested:  
  -Fedora 32, VSC with python3 and tkinter installed  
